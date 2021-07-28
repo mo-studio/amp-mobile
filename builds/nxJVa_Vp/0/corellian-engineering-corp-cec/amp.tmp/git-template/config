@@ -1,0 +1,4 @@
+[fetch]
+	recurseSubmodules = false
+[http "https://gitlab-dev.bespinmobile.cloud"]
+	sslCAInfo = /Users/rustinhodge/Flutter Projects/amp/builds/nxJVa_Vp/0/corellian-engineering-corp-cec/amp.tmp/CI_SERVER_TLS_CA_FILE
